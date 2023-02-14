@@ -1,0 +1,5 @@
+How to view who stared my github repository ?
+    : - add ( /stargazers ) to the end of the url of github repository
+    
+How to create a folder in guthub ?
+    : - just type ( name_of_the_folder// ) in folder name section and your are done.
